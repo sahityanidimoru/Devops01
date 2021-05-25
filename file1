@@ -2,12 +2,6 @@ This is a content in file1 of devops1 directory in git bash
 "this is a line 2 adding in file1 of devops1 directory in Branch B1 in git bash"
 3rd line added to local master
 4th line added to local master
-
-
-
-<<<<<<< Updated upstream
 6th line added to local master
 5th line added to local master
-=======
 7th line added in local master
->>>>>>> Stashed changes
